@@ -1,5 +1,7 @@
 # MNIST Digit Classification — Perceptron vs. ANN vs. CNN
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/venom312004/perceptron-ann-cnn-comparison/blob/main/CNN.ipynb)
+
 A comparative study of three neural network architectures on the MNIST handwritten digit dataset, implemented with TensorFlow/Keras and scikit-learn.
 
 ---
