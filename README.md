@@ -18,14 +18,6 @@ This project trains and evaluates three progressively complex models on the MNIS
 
 ---
 
-## Project Structure
-├── CNN.ipynb          # Main notebook: training, evaluation, and visualizations
-├── mnist_train.csv    # Training data (60,000 samples)
-└── mnist_test.csv     # Test data (10,000 samples)
-
----
----
-
 ## Tech Stack
 
 - Python 3.x
